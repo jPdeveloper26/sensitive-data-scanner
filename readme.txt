@@ -1,5 +1,5 @@
 === Sensitive Data Scanner ===
-Contributors: CognitoWP
+Contributors: Juan Mojica
 Tags:  data-protection, privacy, sensitive-data, gdpr, compliance
 Requires at least: 5.0
 Tested up to: 6.8
