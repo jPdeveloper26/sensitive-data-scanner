@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name: Sensitive Data Scanner
- * Plugin URI: https://wpbay.com/store/cognitowp/
  * Description: Scans posts, pages, and theme files for accidentally exposed sensitive data (emails, API keys, phone numbers, etc.).
  * Version: 1.0.0
- * Author: CognitoWP
- * Author URI: https://wpbay.com/store/cognitowp/
+ * Author: Juan Mojica
  * Text Domain: sensitive-data-scanner-cognito
  * Domain Path: /languages
  * Requires at least: 5.0
