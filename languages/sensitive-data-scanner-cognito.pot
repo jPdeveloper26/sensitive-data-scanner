@@ -1,0 +1,428 @@
+# Copyright (C) 2024 CognitoWP
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensitive Data Scanner for WordPress by CognitoWP 1.0.0\n"
+"Report-Msgid-Bugs-To:https://wpbay.com/store/cognitowp\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:25
+msgid "Sensitive Data Scanner"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:26
+msgid "Data Scanner"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:35
+#: includes/class-sensitive-data-scanner-cognito-admin.php:40
+msgid "Scan Results"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:47
+#: includes/class-sensitive-data-scanner-cognito-admin.php:52
+#: includes/class-sensitive-data-scanner-cognito-settings.php:489
+msgid "Settings"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:81
+msgid "Scanning..."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:82
+msgid "Scan complete!"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:83
+msgid "Scan failed. Please try again."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:84
+msgid "Are you sure you want to clear all scan results?"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:97
+msgid "Scan completed successfully!"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:109
+msgid "Quick Scan"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:111
+msgid "Start a comprehensive scan of your website for sensitive data."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:115
+msgid "Start Scan"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:118
+msgid "Start AJAX Scan"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:125
+msgid "Initializing scan..."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:132
+msgid "No scan results found. Run a scan to see results here."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:137
+msgid "Clear All Results"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:143
+#, php-format
+msgid "%d issues found"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:150
+msgid "Location"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:151
+msgid "Type"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:152
+msgid "Data Found"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:153
+msgid "Context"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:154
+msgid "Risk Level"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:155
+msgid "Date Found"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:161
+msgid "ID:"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:165
+msgid "View"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:172
+msgid "Theme:"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:176
+msgid "Edit File"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:188
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:210
+msgid "All scan results have been cleared."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:222
+#, php-format
+msgid "Sensitive Data Scanner found %d high-risk issues on your website."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-admin.php:225
+msgid "View Details"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-scanner.php:256
+#, php-format
+msgid "[%s] Sensitive Data Scanner Alert"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-scanner.php:262
+#, php-format
+msgid "The Sensitive Data Scanner found %1$d high-risk issues on your website %2$s. Please review these issues as soon as possible."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-scanner.php:267
+msgid "You can view the full report at:"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:35
+msgid "Scan Options"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:41
+msgid "Data Types to Scan"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:47
+msgid "Scheduled Scans"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:53
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:63
+msgid "Scan Posts"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:69
+msgid "Include published posts in scans"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:74
+msgid "Scan Pages"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:80
+msgid "Include published pages in scans"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:85
+msgid "Scan Theme Files"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:91
+msgid "Include active theme files in scans (PHP, JS, CSS)"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:97
+msgid "Email Addresses"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:98
+msgid "Scan for email addresses"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:101
+msgid "Phone Numbers"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:102
+msgid "Scan for phone numbers"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:105
+msgid "API Keys"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:106
+msgid "Scan for API keys and access tokens"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:109
+msgid "Credit Card Numbers"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:110
+msgid "Scan for credit card numbers"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:113
+msgid "Social Security Numbers"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:114
+msgid "Scan for Social Security Numbers (US)"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:117
+msgid "Passwords"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:118
+msgid "Scan for password patterns"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:121
+msgid "JWT Tokens"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:122
+msgid "Scan for JSON Web Tokens"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:125
+msgid "IP Addresses"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:126
+msgid "Scan for IP addresses"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:143
+msgid "Enable Scheduled Scans"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:149
+msgid "Automatically run scans on a schedule"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:154
+msgid "Scan Frequency"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:160
+msgid "Hourly"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:161
+msgid "Twice Daily"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:162
+msgid "Daily"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:163
+msgid "Weekly"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:170
+msgid "Email Notifications"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:176
+msgid "Send email notifications when high-risk issues are found"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:181
+msgid "Data Retention (Days)"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:190
+msgid "Number of days to keep scan results before automatic cleanup"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:195
+msgid "Exclude Patterns"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:201
+msgid "One pattern per line. Use regex patterns to exclude specific content from scans."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:208
+msgid "Configure what content to include in your scans."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:212
+msgid "Select which types of sensitive data to scan for."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:216
+msgid "Configure automatic scheduled scans and notifications."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:220
+msgid "Advanced configuration options for power users."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:336
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:349
+msgid "Export completed! %s"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:350
+msgid "Download CSV"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:352
+msgid "Export failed. Please try again."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:361
+#, php-format
+msgid "Cleaned up %d old scan results."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:370
+#, php-format
+msgid "Removed %d duplicate scan results."
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:379
+msgid "Sensitive Data Scanner Settings"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:395
+msgid "Scan Statistics"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:399
+msgid "Total Issues"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:405
+msgid "High Risk"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:412
+msgid "Medium Risk"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:419
+msgid "Low Risk"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:427
+msgid "Last scan:"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:436
+msgid "Data Management"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:443
+msgid "Export Results to CSV"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:451
+msgid "Are you sure you want to clean up old scan results?"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:452
+msgid "Clean Up Old Results"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:460
+msgid "Are you sure you want to remove duplicate results?"
+msgstr ""
+
+#: includes/class-sensitive-data-scanner-cognito-settings.php:461
+msgid "Remove Duplicates"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Sensitive Data Scanner for WordPress by CognitoWP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://cognitowp.com/plugins/sensitive-data-scanner"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Scans posts, pages, and theme files for accidentally exposed sensitive data (emails, API keys, phone numbers, etc.)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CognitoWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://cognitowp.com"
+msgstr ""
